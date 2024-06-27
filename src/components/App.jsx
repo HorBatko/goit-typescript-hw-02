@@ -1,4 +1,4 @@
-import axios from "axios";
+
 import { useEffect, useState } from "react";
 import ImageGallery from "./ImageGallery/ImageGallery";
 import { getImages } from "./img-api";
